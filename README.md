@@ -1,4 +1,4 @@
-# vue2.0ts
+# vue2.0+ts代码规范，去除console，cdn加速，
 
 ## Project setup
 ```
